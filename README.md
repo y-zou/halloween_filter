@@ -4,3 +4,4 @@ Add some Halloween flavor to your photo
 ### building
 <img src="building.jpg" style="width:10px">
 
+![old main](building.jpg){:height="50%" width="50%"}
