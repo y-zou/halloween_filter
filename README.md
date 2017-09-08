@@ -2,4 +2,4 @@
 Add some Halloween flavor to your photo 
 ## example
 ### building
-<img src="building.jpg" width="48">
+<img src="building.jpg" width="256">
