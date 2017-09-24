@@ -1,5 +1,5 @@
 # halloween_filter
 Add some Halloween flavor to your photo 
 ## example
-### building
-<img src="building.jpg" width="256">
+### Apply halloween filter to a building picture
+<img src="filter_example.png" width="500">
